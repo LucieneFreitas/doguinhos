@@ -1,0 +1,20 @@
+linha 25 - data-bs-spy="scroll": ao rolar barra de rolagem, menu faz a marcação de automaticamente
+linha 27 - sticky-top: para deixar navbar fixo com a rolagem da barra
+linha 36 - icone de lua
+linha 58 - fw-bold: Torna o texto em negrito.
+linha 71 - float-md-end: flutuar no fim
+linha 71 - float-none: no tamanho mobile, deixará mais centralizado
+linha 87/95/103 - mt-5: para deixar a imagem um pouco mais afastada uma da outra
+linha 88 - border shadow: deixar um sombreado
+linha 129 - <div class="card-body bg-light"> para quando alterar tema escuro o fundo não ficar branco
+linha 286 - width 100%: para o mapa ficar dentro do container
+
+
+
+================JAVASCRIPT================
+https://webcodeflow.com/dark-mode-switch/
+
+linha 5 - qdo entrar no dark mode pegar icone da lua
+linha 23 - icone da lua buscado no html
+linha 55 - tema claro vai aparecer o sol
+
